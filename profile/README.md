@@ -1,0 +1,1 @@
+Welcome to **HUREBLISS**, the comprehensive HRIS system designed to simplify your HR management tasks. Our application offers an easy-to-use interface for managing employee data, tracking time and attendance, and streamlining HR workflows. With HUREBLISS, you can focus on what matters most – your employees.
